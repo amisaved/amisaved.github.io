@@ -107,4 +107,5 @@
 }
 .foodicon--broccoli::before {
 	content: url(/img/skull.jpg);
+	transform scale(0.5);
 }
