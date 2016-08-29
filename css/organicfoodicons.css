@@ -106,5 +106,5 @@
 	content: "\e91b";
 }
 .foodicon--broccoli::before {
-	content: url(/img/test2.png);
+	content: url(/img/test3.png);
 }
