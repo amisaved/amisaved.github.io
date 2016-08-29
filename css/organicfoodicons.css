@@ -107,9 +107,9 @@
 }
 .foodicon--broccoli::before {
 	background-image: url('/img/pizza.jpg');
-	background-size: 200px 200px;
+	background-size: 400px 400px;
 	display: inline-block;
-	width: 200px; 
-	height: 200px;
-	content:"";
+	width: 400px; 
+	height: 400px;
+	content:"This is a test, testing test of a test";
 }
