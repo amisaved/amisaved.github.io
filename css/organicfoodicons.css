@@ -73,7 +73,7 @@ img {
 	content: "\e90e";
 }
 .foodicon--mushrooms::before {
-	font size: 20px;
+	font size: 2px;
 	content: "This is a test only";
 }
 .foodicon--onion::before {
