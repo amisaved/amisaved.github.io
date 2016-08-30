@@ -242,11 +242,11 @@ a:hover {
 
 .product {
 	display: inline-block;
-	width: 300px;
-	height: 300px;
+	width: 200px;
+	height: 200px;
 	margin: 5px;
 	border-radius: 5px;
-	background: #3b3d4a;
+	background: #47484c;
 }
 
 .product .foodicon {
