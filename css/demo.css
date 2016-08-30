@@ -242,9 +242,9 @@ a:hover {
 
 .product {
 	display: inline-block;
-	width: 200px;
-	height: 200px;
-	margin: 10px;
+	width: 1500px;
+	height: 150px;
+	margin: 5px;
 	border-radius: 5px;
 	background: #1c1d22;
 }
