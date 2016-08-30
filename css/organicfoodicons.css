@@ -113,9 +113,9 @@ img {
 }
 .foodicon--broccoli::before {
     background-image: url('/img/backb.png');
-    background-size: 100px 500px;
+    background-size: 400px 900px;
     display: inline-block;
-    width: 100px; 
-    height: 500px;
+    width: 400px; 
+    height: 900px;
     content:"";
 }
