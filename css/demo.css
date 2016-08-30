@@ -226,8 +226,8 @@ a:hover {
 
 .content {
 	position: relative;
-	min-height: 300px;
-	margin: 0 0 0 300px;
+	min-height: 100px;
+	margin: 0 0 0 100px;
 }
 
 .content--loading {
