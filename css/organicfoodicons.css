@@ -11,6 +11,10 @@
 	font-style: normal;
 }
 
+img {
+	max-width: 100%;
+}
+
 .foodicon {
 	font-family: 'organicfoodicons';
 	speak: none;
