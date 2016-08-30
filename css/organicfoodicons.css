@@ -112,5 +112,6 @@ img {
 	content: "\e91b";
 }
 .foodicon--broccoli::before {
+	max-width: 100%;
 	content: url(/img/backb.png);
 }
