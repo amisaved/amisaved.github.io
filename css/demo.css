@@ -244,9 +244,9 @@ a:hover {
 	display: inline-block;
 	width: 100px;
 	height: 100px;
-	margin: 10px;
+	margin: 30px;
 	border-radius: 5px;
-	background: #5c5eec;
+	background: #9edc5c;
 }
 
 .product .foodicon {
