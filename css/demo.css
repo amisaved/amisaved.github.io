@@ -3,7 +3,6 @@
 @font-face {
 	font-family: 'bpicons';
 	font-weight: normal;
-	font size: 14px;
 	font-style: normal;
 	src: url('../fonts/bpicons/bpicons.eot');
 	src: url('../fonts/bpicons/bpicons.eot?#iefix') format('embedded-opentype'), url('../fonts/bpicons/bpicons.woff') format('woff'), url('../fonts/bpicons/bpicons.ttf') format('truetype'), url('../fonts/bpicons/bpicons.svg#bpicons') format('svg');
@@ -227,7 +226,7 @@ a:hover {
 
 .content {
 	position: relative;
-	min-height: 100px;
+	min-height: 300px;
 	margin: 0 0 0 300px;
 }
 
@@ -238,14 +237,13 @@ a:hover {
 .products {
 	margin: 0;
 	padding: 2em;
-	font-size: 1.5em;
 	text-align: center;
 }
 
 .product {
 	display: inline-block;
-	width: 220px;
-	height: 220px;
+	width: 200px;
+	height: 200px;
 	margin: 10px
 	font-size: 1.5em;
 	border-radius: 5px;
@@ -263,7 +261,7 @@ a:hover {
 	font-weight: bold;
 	padding: 20vh 1em 0;
 	text-align: center;
-	color: #ffffff;
+	color: #47484c;
 }
 
 body #cdawrap {
