@@ -211,7 +211,7 @@ a:hover {
 	padding: 1em 0 0 0;
 	text-align: center;
 	color: #3b3d4a;
-	background: #5c5edc;
+	background: #1c1d22;
 }
 
 .dummy-icon {
@@ -246,11 +246,11 @@ a:hover {
 	height: 200px;
 	margin: 10px;
 	border-radius: 5px;
-	background: #1c1d22;
+	background: #5c5edc;
 }
 
 .product .foodicon {
-	font-size: 4em;
+	font-size: 2em;
 	line-height: 190px;
 	color: #3b3d4a;
 }
