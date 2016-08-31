@@ -235,7 +235,7 @@ a:hover {
 }
 
 .products {
-	margin: 55;
+	margin: 60;
 	padding: 2em;
 	text-align: center;
 }
@@ -244,7 +244,7 @@ a:hover {
 	display: inline-block;
 	width: 100px;
 	height: 100px;
-	margin: 55px;
+	margin: 60px;
 	border-radius: 5px;
 	background: #9edc5c;
 }
