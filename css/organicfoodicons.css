@@ -9,14 +9,8 @@
 		url('../fonts/organicfoodicons/organicfoodicons.svg?56tr8g#organicfoodicons') format('svg');
 	font-weight: normal;
 	font-style: normal;
-	font size: 14px;
 }
 
-img {
-	max-width: 100%;
-	height: auto;
-	width: auto\9;
-}
 
 .foodicon {
 	font-family: 'organicfoodicons';
@@ -74,7 +68,6 @@ img {
 	content: "\e90e";
 }
 .foodicon--mushrooms::before {
-	font size: 2px;
 	content: "This is a test only";
 }
 .foodicon--onion::before {
