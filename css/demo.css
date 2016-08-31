@@ -246,9 +246,9 @@ a:hover {
 	display: inline-block;
 	width: 220px;
 	height: 220px;
-	margin: 5px
-	font-size: 0.75em;
-	border-radius: 5px;
+	margin: 10px
+	font-size: 1.5em;
+	border-radius: 10px;
 	background: #5c62ac;
 }
 
