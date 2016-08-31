@@ -108,3 +108,12 @@
 .foodicon--broccoli::before {
 	content: url(/img/rom838.png);
 }
+.foodicon--firstjohn::before {
+	content: url(/img/firstjohn512.png);
+}
+.foodicon--john::before {
+	content: url(/img/john524.png);
+}
+.foodicon--rom816::before {
+	content: url(/img/rom816.png);
+}
