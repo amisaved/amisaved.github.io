@@ -204,7 +204,7 @@ a:hover {
 }
 
 .dummy-logo {
-	position: static;
+	position: fixed;
 	top: 0;
 	left: 0;
 	width: 300px;
@@ -236,7 +236,7 @@ a:hover {
 }
 
 .products {
-	margin: 2;
+	margin: 0;
 	padding: 2em;
 	font-size: 1.5em;
 	text-align: center;
@@ -248,7 +248,7 @@ a:hover {
 	height: 220px;
 	margin: 10px
 	font-size: 1.5em;
-	border-radius: 10px;
+	border-radius: 5px;
 	background: #5c62ac;
 }
 
