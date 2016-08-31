@@ -244,14 +244,13 @@ a:hover {
 	display: inline-block;
 	width: 200px;
 	height: 200px;
-	margin: 10px
-	font-size: 1.5em;
+	margin: 10px;
 	border-radius: 5px;
-	background: #5c62ac;
+	background: #1c1d22;
 }
 
 .product .foodicon {
-	font-size: 0.75em;
+	font-size: 4em;
 	line-height: 190px;
 	color: #3b3d4a;
 }
