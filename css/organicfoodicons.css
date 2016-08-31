@@ -67,7 +67,7 @@
 	content: "\e90e";
 }
 .foodicon--mushrooms::before {
-	content: "\e90f";
+	content: "This is a test of the CSS ability and how far it will allow me to do so";
 }
 .foodicon--onion::before {
 	content: "\e910";
