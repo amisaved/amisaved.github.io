@@ -126,3 +126,30 @@
 .foodicon--sensitive::before {
 	content: url(/img/sensitive.png);
 }
+.foodicon--sensitive::before {
+	content: url(/img/answer.png);
+}
+.foodicon--sensitive::before {
+	content: url(/img/decrease.png);
+}
+.foodicon--sensitive::before {
+	content: url(/img/eager.png);
+}
+.foodicon--sensitive::before {
+	content: url(/img/fellowship.png);
+}
+.foodicon--sensitive::before {
+	content: url(/img/love.png);
+}
+.foodicon--sensitive::before {
+	content: url(/img/ministry.png);
+}
+.foodicon--sensitive::before {
+	content: url(/img/obey.png);
+}
+.foodicon--sensitive::before {
+	content: url(/img/reject.png);
+}
+.foodicon--sensitive::before {
+	content: url(/img/suffer.png);
+}
