@@ -117,3 +117,12 @@
 .foodicon--rom816::before {
 	content: url(/img/rom816.png);
 }
+.foodicon--john1029::before {
+	content: url(/img/john1029.png);
+}
+.foodicon--john647::before {
+	content: url(/img/john647.png);
+}
+.foodicon--sensitive::before {
+	content: url(/img/sensitive.png);
+}
