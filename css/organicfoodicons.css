@@ -67,8 +67,7 @@
 	content: "\e90e";
 }
 .foodicon--mushrooms::before {
-	content: "This is a test of the SOSA2 ability and how far it will allow me to do so so /n" 
-		"new line /n This is testing adding a paragraph see how far this will go, I'm going to type a loner line to see what happens";
+	content: "Where do you believe the World, the Galaxies, and the Universe come from?" ;
 }
 .foodicon--onion::before {
 	content: "\e910";
@@ -158,5 +157,5 @@
 	content: url(/img/dog.jpg);
 }
 .foodicon--mushroomsspace::before {
-	content: "-------------------------------------------------------------------------";
+	content: "------------------------------------------------------------------";
 }
