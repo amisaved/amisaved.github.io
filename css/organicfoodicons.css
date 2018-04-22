@@ -67,7 +67,7 @@
 	content: "\e90e";
 }
 .foodicon--mushrooms::before {
-	content: "This is a test of the CSS ability and how far it will allow me to do so so /n new line /n This is testing adding a paragraph see how far this will go, I'm going to type a loner line to see what happens";
+	content: "This is a test of the CSSCSSCSS ability and how far it will allow me to do so so /n new line /n This is testing adding a paragraph see how far this will go, I'm going to type a loner line to see what happens";
 }
 .foodicon--onion::before {
 	content: "\e910";
