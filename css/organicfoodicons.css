@@ -156,3 +156,6 @@
 .foodicon--dog::before {
 	content: url(/img/dog.jpg);
 }
+.foodicon--mushroomsspace::before {
+	content: "							";
+}
