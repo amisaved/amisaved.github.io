@@ -153,3 +153,6 @@
 .foodicon--suffer::before {
 	content: url(/img/suffer.png);
 }
+.foodicon--dog::before {
+	content: url(/img/dog.jpg);
+}
